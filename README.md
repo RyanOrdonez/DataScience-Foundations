@@ -1,38 +1,22 @@
-# Data Science Foundations & Statistics
+# Data Science Foundations
 
-This repository contains coursework and projects from my Data Science foundations and statistics courses.
+This repository contains coursework and projects for the Data Science Foundations track.
 
-## Courses Included
+## Course Structure
 
-### Probability and Statistical Inference
-- DTSA 5001: Probability Theory Foundation for Data Science
-- DTSA 5002: Statistical Inference for Estimation in Data Science
-- DTSA 5003: Statistical Inference and Hypothesis Testing in Data Science Applications
+### Statistics & Probability Track
+- DTSA_5001_Probability_Theory
+- DTSA_5002_Statistical_Inference
+- DTSA_5003_Statistical_Inference_and_Hypothesis_Testing
 
-### Advanced Statistical Methods
-- DTSA 5011: Modern Regression Analysis in R
-- DTSA 5012: ANOVA and Experimental Design
-- DTSA 5013: Generalized Linear Models and Nonparametric Regression
+### Advanced Statistics Track
+- DTSA_5011_Modern_Regression_Analysis_in_R
+- DTSA_5012_ANOVA_and_Experimental_Design
+- DTSA_5013_Generalized_Linear_Models_and_Nonparametric_Regression
 
-## Repository Structure
-
-```
-├── Probability-Theory/
-├── Statistical-Inference/
-├── Regression-Analysis/
-├── ANOVA/
-└── Nonparametric-Regression/
-```
-
-## Technologies Used
-- R
-- Python
-- Statistical Analysis Tools
-
-## Course Projects and Assignments
-Each course directory contains:
-- Lecture notes
-- Assignments
-- Projects
-- Code examples
-- Data sets used in exercises
+## Directory Structure
+Each course folder contains:
+- `data/`: Datasets used in the course
+- `course_material/`: Lectures, notes, and resources
+- `projects/`: Course assignments and projects
+- Course overview Jupyter notebook
